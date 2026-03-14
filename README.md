@@ -6,7 +6,7 @@ I design and build backend systems: APIs, background workers, bots, and internal
 My main interests are distributed systems, performance, and clear service architecture.
 
 **Stack:**  
-Go, PostgreSQL, Redis, Kafka, gRPC/REST, Docker
+Go, PostgreSQL, MongoDB, Redis, Kafka, gRPC/REST, Docker
 
 I also have practical experience with Python, Java, Scala, and C++, which helps me make pragmatic engineering decisions in real-world systems.
 
