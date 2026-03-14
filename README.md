@@ -1,4 +1,4 @@
-### Hi there ✌️
+## Hi there ✌️
 
 I'm [Teodor](https://linkedin.com/in/tdenisov), a backend engineer focused on building reliable services in Go.
 
