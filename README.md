@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there ✌️
 
-<!--
-**ce-fello/ce-fello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Teodor](https://linkedin.com/in/tdenisov), a backend engineer focused on building reliable services in Go.
 
-Here are some ideas to get you started:
+I design and build backend systems: APIs, background workers, bots, and internal tooling.  
+My main interests are distributed systems, performance, and clear service architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:**  
+Go, PostgreSQL, Redis, Kafka, gRPC/REST, Docker
+
+I also have practical experience with Python, Java, Scala, and C++, which helps me make pragmatic engineering decisions in real-world systems.
+
+Currently studying at the Higher School of Economics (HSE), Moscow.
+
+Open to collaboration on backend infrastructure, platform tooling, and high-load Go services
